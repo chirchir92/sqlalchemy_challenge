@@ -1,6 +1,5 @@
-#*****************************************#
+#****************start************************#
 # import dependencies
-from unittest import result
 from flask import Flask, jsonify
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
